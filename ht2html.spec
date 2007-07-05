@@ -1,6 +1,6 @@
 Name:           ht2html
 Version:        2.0
-Release:        %mkrel 8
+Release:        %mkrel 9
 Epoch:          0
 Summary:        The www.python.org Web site generator
 URL:            http://ht2html.sourceforge.net/
