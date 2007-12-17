@@ -9,7 +9,6 @@ Source1:        %{name}.sh
 License:        Public Domain
 Group:          Development/Python
 BuildRequires:  python-devel
-BuildRoot:      %{_tmppath}/%{name}-%{version}-root
 BuildArch:      noarch
 
 %description
