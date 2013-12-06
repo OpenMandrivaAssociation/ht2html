@@ -2,7 +2,7 @@ Summary:	The www.python.org Web site generator
 Name:		ht2html
 Epoch:		0
 Version:	2.0
-Release:	19
+Release:	20
 License:	Public Domain
 Group:		Development/Python
 Url:		http://ht2html.sourceforge.net/
