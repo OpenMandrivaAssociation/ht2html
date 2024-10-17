@@ -5,7 +5,7 @@ Version:	2.0
 Release:	27
 License:	Public Domain
 Group:		Development/Python
-Url:		http://ht2html.sourceforge.net/
+Url:		https://ht2html.sourceforge.net/
 Source0:	http://osdn.dl.sourceforge.net/ht2html/%{name}-%{version}.tar.bz2
 Source1:	%{name}.sh
 BuildArch:	noarch
